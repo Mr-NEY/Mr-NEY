@@ -39,7 +39,7 @@
 
 ### 📅 Appointment Manager
 - Scheduling app with API sync and Google Maps  
-👉 [View Project](https://github.com/Mr-NEY)
+👉 [View Project](https://github.com/Mr-NEY/appointment_manager)
 
 ---
 
