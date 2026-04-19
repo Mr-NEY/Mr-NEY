@@ -33,7 +33,7 @@
 
 ### 🧾 Lucky POS
 - Offline-first POS system with local database and reporting  
-👉 [View Project](https://github.com/Mr-NEY)
+👉 [View Project](https://github.com/Mr-NEY/lucky_pos)
 
 ---
 
