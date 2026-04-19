@@ -1,12 +1,49 @@
-- 👋 Hi, I’m NEY MINN THANT
-- 👀 I’m interested in ...JAVA
-- 🌱 I’m currently learning ...JAVA & CPP
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...https://www.facebook.com/neyminnthant, https://t.me/NeyMinn
-- 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Nay Min Thant
 
-<!---
-Mr-NEY/Mr-NEY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Flutter / Mobile Engineer (Fintech)  
+💼 Experienced in building production-grade mobile wallet applications  
+📍 Yangon, Myanmar  
+
+---
+
+## 🧠 Tech Stack
+
+**Mobile:**
+- Flutter (Dart), Android, iOS  
+
+**Architecture:**
+- MVVM, Clean Architecture, Provider, Riverpod  
+
+**Backend:**
+- Java Spring Boot, REST APIs  
+
+**Tools:**
+- Firebase, Git, Postman, Android Studio, Xcode  
+
+---
+
+## 🔥 Featured Projects
+
+### 📱 NDB Pay – Mobile Wallet
+- Fintech wallet with QR payments, P2P transfers, and KYC
+- Built with Flutter, Provider, Dio, Firebase  
+👉 (Private project – details available on request)
+
+---
+
+### 🧾 Lucky POS
+- Offline-first POS system with local database and reporting  
+👉 [View Project](https://github.com/Mr-NEY)
+
+---
+
+### 📅 Appointment Manager
+- Scheduling app with API sync and Google Maps  
+👉 [View Project](https://github.com/Mr-NEY)
+
+---
+
+## 📫 Contact Me
+
+- Email: neyminnthant@gmail.com  
+- GitHub: https://github.com/Mr-NEY  
